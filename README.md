@@ -1,4 +1,4 @@
-# Phase 9 — Splunk SOC Lab with Windows Firewall Logs
+# 🚀Phase 9 — Splunk SOC Lab with Windows Firewall Logs
 In this lab, I set up Splunk in Docker on Windows 11, ingested Windows sample logs and firewall logs, and practiced SPL searches along with auto and manual field extraction. 🚀
 ---
 
